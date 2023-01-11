@@ -13,6 +13,7 @@ Install the requirements.txt file and simply run the script
 On first time run, you will be prompted to enter your fiveM cache path. It will only prompt you once. After that, just run the script every time you need to clear your cache!
 - A settings.ini file will be created to save your path.
 
+* Make sure your fiveM is closed when running the script, otherwise it WILL throw errors.
 
 ## License 
 -
